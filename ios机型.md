@@ -1,6 +1,8 @@
 # iphone机型
 
-设备：
+| 设备 | 分辨率 |
+| :--- | :--- |
+| iphone 4s |  |
 
 * iphone 4s      640x960
 * iphone 5        640x1136
