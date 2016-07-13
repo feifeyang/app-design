@@ -13,6 +13,6 @@ iphone 设计以 750x1334 为主导。
 
 以图文形式展示：
 
-<img src="buju.jpg" width="200px" />
+<img src="buju.jpg" />
 
 
