@@ -15,5 +15,13 @@ iphone 设计以 750x1334 为主导。
 
 <img src="buju.jpg" alt="draw" style="width:350px; height:623px;"/>
 
+* 状态栏：40px
+* 导航栏：88px
+* 下导航 tab 条：80px
+* 小标题：64px
+* 按钮：88px
+* 底部导航：98px
+
+
 
 
