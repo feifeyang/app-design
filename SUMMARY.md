@@ -5,5 +5,5 @@
    * [iphone机型](ios机型.md)
    * [Android机型](android机型.md)
 * 页面布局
-   * iphone 布局
+   * [iphone 布局](iphone_bu_ju.md)
 
