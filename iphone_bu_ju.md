@@ -48,7 +48,7 @@ iphone 设计以 750x1334 为主导。
 | -- | -- | -- | -- | -- | -- | -- |
 | iphone4s | 1024x1024px | 120x120px | 114x114px | 58x58px | 75x75px | 44x44px |
 | iphone5~iphone5s | 1024x1024px | 120x120px | 114x114px | 58x58px | 75x75px | 44x44px |
-| iphone5~iphone5s | 1024x1024px | 120x120px | 114x114px | 58x58px | 75x75px | 44x44px |
+| iphone6~iphone6s | 1024x1024px | 120x120px | 114x114px | 58x58px | 75x75px | 44x44px |
 
 
 
