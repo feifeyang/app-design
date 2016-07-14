@@ -48,6 +48,7 @@ DP：安卓的专用长度单位，以160ppi屏幕为标准，则1dp = 1px
 | MDPI | 320x480 160PPI | 1dp=1px | 1sp=1px |
 | HDPI | 480x800 240PPI | 1dp=1.5px | 1sp=1.5px |
 | XHDPI | 720x1280 320PPI | 1dp=2px | 1sp=2px |
+| XXHDPI | 1920x1080 480PPI | 1dp=3px | 1sp=3px |
 
 
 
