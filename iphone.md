@@ -43,7 +43,7 @@
 
 
 > default.png (启动图片)
-> default_logo.png （启动logo）
+<p>> default_logo.png （启动logo）</p>
 
 
 
