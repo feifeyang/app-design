@@ -48,7 +48,7 @@ iphone 设计以 750x1334 为主导。
 | -- | -- | -- | -- | -- |
 | iphone6 plus设计版 | 1242x2208(px) | 60(px)| 132(px) | 147(px) |
 | iphone6 plus物理版 | 1080x1920(px) | 54(px)| 132(px) | 147(px) |
-| iphone6 | 750x1334(px) | 54(px)| 132(px) | 147(px) |
+| iphone6 | 750x1334(px) | 40(px)| 88(px) | 98(px) |
 
 
 
