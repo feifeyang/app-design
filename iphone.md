@@ -42,7 +42,7 @@
 命名规则如下：
 
 
-<p>default.png (启动图片)</p>
+><p>default.png (启动图片)</p>
 <p> default_logo.png （启动logo）</p>
 
 
