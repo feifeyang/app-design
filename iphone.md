@@ -9,3 +9,7 @@
 <p>ios 切图后缀命名规则：@2x(2倍图) ； @3x（3倍图）</p>
 
 <p>例：icon@2x.png   ; icon@3x.png</p>
+
+图片虚边
+
+<img src="yy.png">
