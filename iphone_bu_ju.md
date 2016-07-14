@@ -50,7 +50,7 @@ iphone 设计以 750x1334 为主导。
 | iphone6 plus物理版 | 1080x1920(px) | 54(px)| 132(px) | 147(px) |
 | iphone6/6s | 750x1334(px) | 40(px)| 88(px) | 98(px) |
 | iphone5/5s | 640x1136(px) | 40(px)| 88(px) | 98(px) |
-| iphone4/4s | 640x1136(px) | 40(px)| 88(px) | 98(px) |
+| iphone4/4s | 640x960(px) | 40(px)| 88(px) | 98(px) |
 
 
 
