@@ -43,10 +43,11 @@
 
 
 ><p>default.png (启动图片)</p>
-<p> default_logo.png （启动logo）</p>
+><p> default_logo.png （启动logo）</p>
 
 <br />
-
+><p>default.png (启动图片)</p>
+<p> default_logo.png （启动logo）</p>
 
 
 
