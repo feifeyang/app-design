@@ -42,8 +42,8 @@
 命名规则如下：
 
 
-> default.png (启动图片)
-<p>> default_logo.png （启动logo）</p>
+<p>default.png (启动图片)</p>
+<p> default_logo.png （启动logo）</p>
 
 
 
