@@ -7,7 +7,7 @@
 * [页面布局](ye_mian_bu_ju.md)
    * [iphone 布局](iphone_bu_ju.md)
    * [Android 布局](android_bu_ju.md)
-* [切图实例](iphone&androidqie_tu_shi_li.md)
+* [App 切图](iphone&androidqie_tu_shi_li.md)
    * [iphone 切图](iphone.md)
    * [Android 切图](android_qie_tu.md)
 
