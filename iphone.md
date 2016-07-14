@@ -46,7 +46,7 @@
 ><p> default_logo.png （启动logo）</p>
 
 <br />
-><p>login_bg.png (登录北京)</p>
+><p>login_bg.png (登录背景)</p>
 <p> default_logo.png （启动logo）</p>
 
 
