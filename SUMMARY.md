@@ -5,7 +5,7 @@
    * [iphone机型](ios机型.md)
    * [Android机型](android机型.md)
 * [页面布局](ye_mian_bu_ju.md)
-   * [iphone 布局](iphone_bu_ju.md)
+   * [iphone](iphone_bu_ju.md)
    * [Android 布局](android_bu_ju.md)
 * [App 切图](iphone&androidqie_tu_shi_li.md)
    * [iphone 切图](iphone.md)
