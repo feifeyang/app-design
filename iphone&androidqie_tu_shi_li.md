@@ -11,7 +11,7 @@
 
 <br /><br />
 <p>ps: </p> 
-<p>iphone 要以偶数来切</p>
+<p>iphone 要以偶数来切（能被2整除）</p>
 <p>Android 偶数奇数都可以</p>
 
 
