@@ -9,5 +9,5 @@
    * [Android](android_bu_ju.md)
 * [关于切图](iphone&androidqie_tu_shi_li.md)
    * [iphone 切图](iphone.md)
-   * [Android 切图](android_qie_tu.md)
+   * [命名](android_qie_tu.md)
 
