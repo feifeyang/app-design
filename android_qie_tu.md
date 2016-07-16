@@ -36,4 +36,5 @@
 ><p>tab_set_pre.png (菜单按钮选中状态)</p>
 
 <br />
-><p>list_menu.png (菜单按钮)</p>
+><p>list_menu.png (列表菜单)</p>
+><p>list_menu_pre.png (列表菜单选中状态)</p>
