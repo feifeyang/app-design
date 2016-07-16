@@ -46,7 +46,7 @@
 ><p>按钮：btn</p>
 ><p>按钮文字：btntext</p>
 ><p>复选框：chb</p>
->背景：bg
+><p>背景：bg</p>
 >单选框：rb
 >下拉：cbb
 >输入：ip
