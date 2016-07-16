@@ -59,6 +59,6 @@
 ><p>nav_menu_pre.png (菜单选中状态)</p>
 
 <br />
-><p>leftbar_info.png (菜单)</p>
+><p>leftbar_info.png (左侧导航)</p>
 
 
