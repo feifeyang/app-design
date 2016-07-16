@@ -55,7 +55,7 @@
 ><p> login_btn_pre.png （登录按钮选中状态）</p>
 
 <br />
-><p>login_bg.png (登录背景)</p>
+><p>nav_(功能描述).png (登录背景)</p>
 
 
 
