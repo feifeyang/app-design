@@ -10,7 +10,7 @@
 <p>哪个工具对你来说最顺手，就一直往下做。</p>
 
 <br /><br />
-<p>ps: </p> 
+<p>ps: 要点</p> 
 <p style="color:#ff0000;">iphone 要以偶数来切（能被2整除）</p>
 <p style="color:#ff0000;">Android 偶数奇数都可以</p>
 
