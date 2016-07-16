@@ -24,8 +24,8 @@
 ><p> login_btn_pre.png （登录按钮选中状态）</p>
 
 <br />
-><p>nav_menu.png (菜单)</p>
-><p>nav_menu_pre.png (菜单选中状态)</p>
+><p>nav_menu.png (导航栏)</p>
+><p>nav_menu_pre.png (导航栏选中状态)</p>
 
 <br />
 ><p>leftbar_info.png (左侧导航)</p>
