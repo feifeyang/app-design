@@ -12,7 +12,7 @@
 <br /><br />
 <p>ps: </p> 
 <p>iphone 要以偶数来切</p>
-<p>     </p>
+<p>Android 偶数奇数都可以</p>
 
 
 
