@@ -48,6 +48,7 @@
 <br />
 ><p>login_bg.png (登录背景)</p>
 ><p> login_logo.png （登录logo）</p>
+>><p> login_logo.png （登录logo）</p>
 
 
 
