@@ -50,7 +50,7 @@
 ><p> login_logo.png （登录logo）</p>
 ><p> login_input.png （输入框）</p>
 ><p> login_input_pre.png （输入框选中状态）</p>
-><p> login_input_pre.png （输入框选中状态）</p>
+><p> login_btn.png （输入框选中状态）</p>
 
 
 
