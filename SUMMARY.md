@@ -8,6 +8,6 @@
    * [iphone](iphone_bu_ju.md)
    * [Android](android_bu_ju.md)
 * [关于切图](iphone&androidqie_tu_shi_li.md)
-   * [iphone 切图](iphone.md)
+   * [android&iphone 切图](iphone.md)
    * [命名](android_qie_tu.md)
 
