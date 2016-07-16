@@ -11,4 +11,5 @@
 * [关于切图](iphone&androidqie_tu_shi_li.md)
    * [Android&iphone 切图](iphone.md)
    * [命名](android_qie_tu.md)
+* 字体大小
 
