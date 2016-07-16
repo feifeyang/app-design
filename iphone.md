@@ -60,6 +60,6 @@
 
 <br />
 ><p>leftbar_info.png (左侧导航)</p>
-><p>leftbar_info_pre.png (左侧导航)</p>
+><p>leftbar_info_pre.png (左侧导航选中状态)</p>
 
 
