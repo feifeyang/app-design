@@ -47,7 +47,7 @@
 
 <br />
 ><p>login_bg.png (登录背景)</p>
-<p> default_logo.png （启动logo）</p>
+><p> login_logo.png （启动logo）</p>
 
 
 
